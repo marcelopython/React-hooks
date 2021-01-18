@@ -1,6 +1,7 @@
 import React from 'react'
 import PageTitle from '../../components/layout/PageTitle'
 
+//
 const UseContext = (props) => {
     return (
         <div className="UseContext">
